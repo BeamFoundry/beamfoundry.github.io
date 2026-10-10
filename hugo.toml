@@ -1,0 +1,9 @@
+baseURL = 'https://rays.bfdy.dev/'
+languageCode = 'en-us'
+title = 'BeamFoundry Rays'
+theme = 'github.com/alex-shpak/hugo-book'
+
+[params]
+  BookLogo = ''
+  BookSection = 'docs'
+  BookTheme= 'auto'
